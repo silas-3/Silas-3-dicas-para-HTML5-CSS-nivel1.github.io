@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/* a tag [@charset;] (cria regra dentro da css, não necessariamente fazela, porém utilizando com essta função cria compatibilidade para acentuação no código css)*/
+
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: rgb(255, 0, 128);
+    background-color: pink;
+}
+h2{
+    color: rgb(33, 229, 33);
+}
+
+p{
+    text-align: justify; /* a função (text-align: justify;)faz com que todos os páragrafo fiquem alinhado. */
+}
